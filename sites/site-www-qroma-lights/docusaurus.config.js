@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'qroma-lights', // Usually your GitHub org/user name.
+  organizationName: 'qroma-projects', // Usually your GitHub org/user name.
   projectName: 'qroma-lights', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -133,7 +133,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright ï¿½ ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
