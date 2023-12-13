@@ -1,5 +1,6 @@
 ---
 title: Monitor Device
+displayed_sidebar: advancedIoSidebar
 ---
 
 # Monitor Device
